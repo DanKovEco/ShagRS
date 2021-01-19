@@ -1,0 +1,2 @@
+# ShagRS
+Dissertation modeling code
